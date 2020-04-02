@@ -1,0 +1,27 @@
+﻿CONVERSACION 1
+11:51:00 CLIENTE1: Hola
+11:51:05 ASESOR1: Hola CLIENTE1, bienvenido al centro de servicio.
+11:51:10 CLIENTE1: Buenas tardes, tengo un inconveniente URGENTE, URGENTE, muy URGENTE. 
+11:51:15 ASESOR1: Con mucho gusto lo atenderemos.
+11:51:25 CLIENTE1: Gracias. EXCELENTE SERVICIO.
+
+CONVERSACION 2
+11:55:00 CLIENTE2: Hola
+11:55:05 ASESOR2: Hola CLIENTE2, bienvenido al centro de servicio.
+11:55:06 CLIENTE2: Sólo para felicitarlos por el EXCELENTE SERVICIO
+11:57:16 ASESOR2: Muchas gracias, tomaremos nota de su felicitación.
+11:57:18 CLIENTE2: Ustedes tienen muy buena atención hacia los clientes.
+11:58:26 ASESOR2: Muchas gracias.
+11:57:30 CLIENTE2: Hasta luego.
+11:58:34 ASESOR2: Hasta luego.
+
+CONVERSACION 3
+11:58:30 CLIENTE3: Hola
+11:58:35 ASESOR3: Hola CLIENTE3, bienvenido al centro de servicio
+11:58:40 CLIENTE3: Buenas tardes, tengo un inconveniente URGENTE y de verdad necesito resolverlo de manera URGENTE
+11:58:45 ASESOR3: Con mucho gusto lo atenderemos.
+11:58:55 CLIENTE3: Por favor, deben atenderlo de manera URGENTE.
+11:58:59 ASESOR3: Con gusto, atenderemos su solicitud.
+
+CONVERSACION 4
+10:34:30 CLIENTE4: Buenos días, necesito ayuda URGENTE.

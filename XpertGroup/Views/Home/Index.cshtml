@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<button type="button" id="consultarPuntaje" class="form-control">consultar puntaje</button>
+ EL PUNTAJE ES :
+<input type="TEXT" class="form-control" id="puntaje" />
+
+@section scripts
+{
+
+    <script>
+        $('#consultarPuntaje').on('click', function () {
+            $.get("/home/CalcularPuntaje", function (data, status) {
+                if (data['success'])
+                    $('#puntaje').val(data['calificacion']);
+                else
+                    alert(data['message']);
+            });
+        });
+            
+    </script>
+}
